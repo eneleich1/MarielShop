@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarielShop.Pages.About"
+             Title="Acerca de..."
+             >
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Text="Desarrollada Por: " TextColor="Blue" Grid.Row="0"/>
+        <Label Text=" Eneleich"  Grid.Row="0" Grid.Column="1"/>
+
+        <Label Text="Email: " TextColor="Blue" Grid.Row="1"/>
+        <Label Text="eneleich1@gmail.com:" Grid.Row="1" Grid.Column="1"/>
+
+        <Label Text="Fecha de Creación: " TextColor="Blue" Grid.Row="2"/>
+        <Label Text="12/Nov/2018" Grid.Row="2" Grid.Column="1"/>
+
+        <Label Text="Estado de Desarrollo: " TextColor="Blue" Grid.Row="3"/>
+        <Label Text=" En Desarrollo:" Grid.Row="3" Grid.Column="1"/>
+
+    </Grid>
+
+</ContentPage>

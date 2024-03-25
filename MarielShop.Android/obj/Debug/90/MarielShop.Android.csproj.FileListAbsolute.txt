@@ -1,0 +1,4 @@
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\build.props
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\adb.props
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\MarielShop.Android.csprojAssemblyReference.cache

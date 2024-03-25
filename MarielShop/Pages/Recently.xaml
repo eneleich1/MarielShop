@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarielShop.Pages.Recently"
+             Title="Anuncios Recientes"
+             xmlns:local="clr-namespace:MarielShop.Convertes"
+             >
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:ImageConverter x:Key="imageConverter" /> 
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <ListView x:Name="lv" Header="Ultimos 100 Anuncios">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" AnchorY="50" Margin="2">
+                            <Image Source="{Binding Image1,Converter={StaticResource imageConverter}}"  Aspect="AspectFit"/>
+                            <Label  Text="{Binding Coin}" TextColor="Blue" />
+                            <Label  Text="{Binding FormatedPrice}" TextColor="Blue" />
+                            <Label  Text="{Binding Header}" Margin="3,0,0,0" TextColor="Blue" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+
+    <!--Text="{Binding Value, StringFormat='The angle is {0:F0} degrees'}"-->
+
+</ContentPage>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MarielShop"
+             x:Class="MarielShop.MainPage"
+             Title="Mariel Shop"
+              Appearing="ContentPage_Appearing"
+             >
+
+    <StackLayout>
+        <Button x:Name="isnert_bt" Text="Insertar Anuncio" Clicked="isnert_bt_Clicked" IsEnabled="False"/>
+        <Button x:Name="recently_bt" Text="Anuncios Recientes" Clicked="recently_bt_Clicked"/>
+        <Button x:Name="relevants" Text="Anuncios Destacados" Clicked="relevants_Clicked" IsEnabled="False"/>
+        <Button x:Name="search_bt"  Text="Búsqueda" Clicked="search_bt_Clicked" IsEnabled="False"/>
+        <Button x:Name="settings_bt" Text="Configuracion" Clicked="settings_bt_Clicked"/>
+        <Button x:Name="about_bt" Text="Acerca de..." Clicked="about_bt_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

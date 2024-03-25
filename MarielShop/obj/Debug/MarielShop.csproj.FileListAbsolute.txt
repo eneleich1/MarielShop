@@ -1,0 +1,9 @@
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop\obj\Debug\MarielShop.MainPage.xaml.g.cs
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop\obj\Debug\MarielShop.App.xaml.g.cs
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop\obj\Debug\MarielShop.Pages.Recently.xaml.g.cs
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop\obj\Debug\MarielShop.Pages.Relevants.xaml.g.cs
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop\obj\Debug\MarielShop.Pages.About.xaml.g.cs
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop\obj\Debug\MarielShop.Pages.Settings.xaml.g.cs
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop\obj\Debug\MarielShop.Pages.Search.xaml.g.cs
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop\obj\Debug\MarielShop.csprojAssemblyReference.cache
+D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop\obj\Debug\MarielShop.csproj.CoreCompileInputs.cache
