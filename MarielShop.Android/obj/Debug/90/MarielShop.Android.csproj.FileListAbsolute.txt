@@ -2,3 +2,9 @@ D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop
 D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\build.props
 D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\adb.props
 D:\Company\!!Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\MarielShop.Android.csprojAssemblyReference.cache
+D:\Company\Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Company\Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\build.props
+D:\Company\Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\adb.props
+D:\Company\Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\MarielShop.Android.csproj.AssemblyReference.cache
+D:\Company\Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\Company\Projects\MarielShop\2-Xamarin Form\MarielShop\MarielShop\MarielShop.Android\obj\Debug\90\res.flag

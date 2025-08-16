@@ -4,5 +4,6 @@
     <SelectedDevice>pixel_5_-_api_30_1</SelectedDevice>
     <DefaultDevice>pixel_5_-_api_30_1</DefaultDevice>
     <ActiveDebugProfile>pixel_5_-_api_30_1</ActiveDebugProfile>
+    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
   </PropertyGroup>
 </Project>
